@@ -55,7 +55,7 @@
             <!--android:title="@string/action_compose"-->
             <!--android:layout_width="wrap_content"-->
             <!--android:layout_height="wrap_content" />-->
-    <!--</menu>-->
+    <!--l</menu>-->
 
     <ListView
         android:layout_width="wrap_content"
